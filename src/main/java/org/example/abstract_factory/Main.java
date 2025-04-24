@@ -1,12 +1,8 @@
-package org.example;
+package org.example.abstract_factory;
 
 import org.example.abstract_factory.client.GameCharacter;
 import org.example.abstract_factory.factoryes.CharacterFactory;
 import org.example.abstract_factory.factoryes.CyberpunkFactory;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Random;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
